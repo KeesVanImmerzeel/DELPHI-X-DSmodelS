@@ -10,7 +10,7 @@ library DSmodelS;
   are nested in records and classes. ShareMem is the interface unit to
   the BORLNDMM.DLL shared memory manager, which must be deployed along
   with your DLL. To avoid using BORLNDMM.DLL, pass string information
-  using PChar or ShortString parameters. }
+  using PChar or ShortString parameters.. }
 
 {.$define test}
 
